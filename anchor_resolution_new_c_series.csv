@@ -1,0 +1,30 @@
+locus_id,species,assembly,query_symbol,matched_symbol,gene_id,seqid,start,end,resolution_method,alias_note
+C001,Ictalurus punctatus,GCF_001660625.3,,,,NC_030435.2,14657971.0,14657971.0,coordinate:stated-assembly,
+C002,Ictalurus punctatus,GCF_001660625.3,,,,NC_030435.2,14658012.0,14658012.0,coordinate:stated-assembly,
+C003,Tachysurus fulvidraco,GCF_022655615.1,stat5b,stat5b,stat5b,NC_062525.1,20298621.0,20314934.0,source:exact/synonym,coordinate-system mismatch vs stated chrom; anchored on gene symbol position instead
+C004,Tachysurus fulvidraco,GCF_022655615.1,igf1,igf1,igf1,NC_062536.1,18248317.0,18271233.0,source:exact/synonym,
+C004,Tachysurus fulvidraco,GCF_022655615.1,myf5,myf5,myf5,NC_062536.1,19986431.0,19991656.0,source:exact/synonym,
+C004,Tachysurus fulvidraco,GCF_022655615.1,myf6,myf6,myf6,NC_062536.1,19994817.0,19998591.0,source:exact/synonym,
+C005,Clarias macrocephalus,GCF_024256425.1,egln2,egln2,egln2,NC_071110.1,12259125.0,12286399.0,source:exact/synonym,
+C005,Clarias macrocephalus,GCF_024256425.1,zfyve21,zfyve21,zfyve21,NC_071107.1,32950779.0,32961584.0,source:exact/synonym,
+C005,Clarias macrocephalus,GCF_024256425.1,jph3a,jph3a,jph3a,NC_071114.1,26627115.0,26635019.0,source:exact/synonym,
+C007,Ictalurus punctatus,GCF_001660625.3,megf9,,,,,,,unresolved
+C007,Ictalurus punctatus,GCF_001660625.3,npffr1,,,,,,,unresolved
+C007,Ictalurus punctatus,GCF_001660625.3,gas1,gas1a,gas1a,NC_030437.2,12129524.0,12131864.0,source:duplicate-suffix,
+C014,Tachysurus fulvidraco,GCF_022655615.1,GH,gh1,gh1,NC_062524.1,4116713.0,4120060.0,manual-alias:gh1,
+C015,Tachysurus fulvidraco,GCF_022655615.1,GH,gh1,gh1,NC_062524.1,4116713.0,4120060.0,manual-alias:gh1,
+C016,Tachysurus fulvidraco,GCF_022655615.1,GH,gh1,gh1,NC_062524.1,4116713.0,4120060.0,manual-alias:gh1,
+C017,Clarias fuscus,GCF_024256425.1,mstnb,mstnb,mstnb,NC_071104.1,36325449.0,36330239.0,source:exact/synonym,
+C017,Clarias fuscus,GCF_024256425.1,egfr,egfra,egfra,NC_071124.1,21999148.0,22062900.0,source:duplicate-suffix,
+C017,Clarias fuscus,GCF_024256425.1,serca1,atp2a1,atp2a1,NC_071115.1,8473834.0,8488496.0,alias(zebrafish):exact/synonym,
+C018,Hemibagrus wyckioides,GCF_019097595.1,ttc39b,,,,,,,unresolved
+C019,Hemibagrus wyckioides,GCF_019097595.1,lrp1,,,,,,,unresolved
+C019,Hemibagrus wyckioides,GCF_019097595.1,gng3,gng3,gng3,NC_080727.1,20712438.0,20716994.0,source:exact/synonym,
+C019,Hemibagrus wyckioides,GCF_019097595.1,aspp2,tp53bp2a,tp53bp2a,NC_080738.1,10693967.0,10732487.0,manual-alias:tp53bp2,
+C019,Hemibagrus wyckioides,GCF_019097595.1,mgp,mgp,mgp,NC_080721.1,15538906.0,15547892.0,source:exact/synonym,
+C019,Hemibagrus wyckioides,GCF_019097595.1,rusc2,rusc2,rusc2,NC_080731.1,21440971.0,21459617.0,source:exact/synonym,
+C028,Ictalurus punctatus,GCF_001660625.3,bmpr1bb,bmpr1bb,bmpr1bb,NC_030431.2,1274851.0,1340002.0,source:exact/synonym,
+C028,Ictalurus punctatus,GCF_001660625.3,fgfrl1b,fgfrl1b,fgfrl1b,NC_030423.2,27797186.0,27841163.0,source:exact/synonym,
+C028,Ictalurus punctatus,GCF_001660625.3,nipbl,nipblb,nipblb,NC_030431.2,1536920.0,1570558.0,source:duplicate-suffix,
+C028,Ictalurus punctatus,GCF_001660625.3,foxp2,foxp2,foxp2,NC_030434.2,16328218.0,16423605.0,source:exact/synonym,
+C028,Ictalurus punctatus,GCF_001660625.3,pax5,pax5,pax5,NC_030444.2,2069573.0,2121663.0,source:exact/synonym,

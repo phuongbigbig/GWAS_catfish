@@ -1,0 +1,13 @@
+gene_symbol_norm,catfish_symbol,method,confidence,cat_chrom,start,end,note,shared_locus_with
+amhr2,LOC113533735,blast_ortholog_cross_species,low,chr10,26649747.0,26663386.0,"BLAST hit protein XP_026781830.3, 26.6% identity. closest catfish paralog match only (25-27% identity); true 1:1 ortholog uncertain — catfish AMHR2 paralog family is divergent",
+dio1,dio3b,blast_ortholog,low,chr19,12071506.0,12073568.0,BLAST ortholog (protein XP_026779164.1); low sequence identity (35.4%) - flagged for manual review,dio3b
+igfbp4,igfbp1a,blast_ortholog_cross_species,low,chr19,6346612.0,6349468.0,"BLAST hit protein XP_026800482.1, 41.6% identity. best hit is IGFBP1a, not a distinct IGFBP4; catfish annotation may lack a separate igfbp4 paralog — flagged as closest-paralog match, not confirmed ortholog",igfbp1a
+lepb,lepa,blast_ortholog,low,chr6,8169572.0,8174689.0,BLAST ortholog (protein XP_053090950.1); low sequence identity (31.1%) - flagged for manual review,lepa
+gh2,gh1,blast_ortholog_cross_species,medium,chr29,4924032.0,4926740.0,"BLAST hit protein XP_026798214.1, 53.8% identity. cross-species BLAST via Nile tilapia growth hormone (gh1) ortholog, since zebrafish lacks a gh2 paralog",gh1
+ghra,ghrb,blast_ortholog,medium,chr15,12606552.0,12625811.0,"BLAST ortholog (protein XP_026797032.2); top-bitscore hit rejected as non-orthologous, semantic name match used instead",ghrb
+ghrl,LOC113545859,blast_ortholog,medium,chr2,3065387.0,3067440.0,BLAST ortholog (protein XP_053088136.1),
+insb,LOC113531241,blast_ortholog,medium,chr27,16944785.0,16946032.0,BLAST ortholog (protein XP_026777620.1),ins
+mrap2b,mrap2a,blast_ortholog,medium,chr1,4803202.0,4815435.0,BLAST ortholog (protein XP_026770095.1),mrap2a
+myod2,myod1,blast_ortholog_cross_species,medium,chr9,14191286.0,14193246.0,"BLAST hit protein XP_026775313.1, 67.4% identity. cross-species BLAST via Nile tilapia myod2 ortholog; hit is catfish's single myod1-annotated locus (catfish may retain only one myod paralog)",myod1
+socs2,LOC113545627,blast_ortholog,medium,chr16,2256367.0,2265679.0,BLAST ortholog (protein XP_053096973.1),
+gnrh3,,unresolved,none,,,,short neuropeptide precursor; no significant BLAST hit against catfish RefSeq proteome,

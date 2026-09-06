@@ -1,0 +1,35 @@
+assembly,species,n_fwd,n_rbh,rbh_frac
+GCA_004026145.2,Takifugu bimaculatus,19168,12791,0.667
+GCA_014281875.1,Argyrosomus regius;Nibea albiflora,13382,9670,0.723
+GCA_031216445.1,Lateolabrax maculatus,22029,16584,0.753
+GCA_040182925.1,Culter alburnus,24316,18425,0.758
+GCA_051314025.1,Epinephelus coioides,22301,16148,0.724
+GCA_059138665.1,Takifugu fasciatus,23977,12751,0.532
+GCF_000523025.1,Cynoglossus semilaevis,20584,15486,0.752
+GCF_000972845.2,Larimichthys crocea;Larimichthys polyactis,22123,16494,0.746
+GCF_001640805.2,Lates calcarifer,23745,16621,0.7
+GCF_001660625.3,Ictalurus punctatus,23527,20393,0.867
+GCF_001858045.2,Oreochromis niloticus,26245,16466,0.627
+GCF_002021735.2,Oncorhynchus kisutch,38313,17129,0.447
+GCF_002814215.2,Seriola lalandi,24463,16517,0.675
+GCF_011397635.1,Epinephelus fuscoguttatus,22332,16604,0.744
+GCF_013265735.2,Oncorhynchus mykiss,38718,17269,0.446
+GCF_014851395.1,Micropterus salmoides,25218,16524,0.655
+GCF_016432855.1,Salvelinus namaycush,36835,16382,0.445
+GCF_018340385.1,Cyprinus carpio,41148,18599,0.452
+GCF_019924925.1,Ctenopharyngodon idella;Hypophthalmichthys molitrix;Hypophthalmichthys nobilis,23838,18283,0.767
+GCF_020085105.1,Siniperca chuatsi,21265,16481,0.775
+GCF_020382885.2,Scatophagus argus,21631,16501,0.763
+GCF_021917145.1,Plecoglossus altivelis,20580,15504,0.753
+GCF_022379125.1,Scophthalmus maximus,20649,16266,0.788
+GCF_022655615.1,Leiocassis longirostris;Pelteobagrus vachelli;Tachysurus fulvidraco,23573,20132,0.854
+GCF_024256425.1,Clarias fuscus;Clarias macrocephalus,23919,20215,0.845
+GCF_024713975.1,Paralichthys olivaceus,21031,16341,0.777
+GCF_033026475.1,Channa argus;Channa maculata,22156,16424,0.741
+GCF_041903045.1,Epinephelus bruneus;Epinephelus lanceolatus;Epinephelus tukula,22974,16667,0.725
+GCF_900324485.3,Mastacembelus armatus,21402,16265,0.76
+GCF_900880675.2,Chrysophrys auratus;Dentex dentex;Sparus aurata,23785,16438,0.691
+GCF_901000725.3,Takifugu rubripes,21043,15522,0.738
+GCF_905237075.1,Dicentrarchus labrax,22485,16692,0.742
+GCF_965601325.1,Salmo salar,39756,17198,0.433
+GCF_019097595.1,Hemibagrus wyckioides,23273,20270,0.871

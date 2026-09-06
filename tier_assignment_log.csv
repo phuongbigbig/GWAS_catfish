@@ -1,0 +1,90 @@
+locus_id,species,proxy_species,tier,tier_reason,ref_genome_text,ref_genome_accession,source_assembly,anchor_type,n_candidate_genes
+S001,Salmo salar,,B,no usable marker coordinate; anchored on reported candidate gene(s),ASalBase draft assembly,,GCF_965601325.1,,1
+S002,Salmo salar,,B,no usable marker coordinate; anchored on reported candidate gene(s),AGKD00000000.4,,GCF_965601325.1,,1
+S003,Ictalurus punctatus,,U,no usable coordinate and no parsable candidate gene symbol,Coco_1.0,GCF_001660625.1,GCF_001660625.3,,0
+S004,Ictalurus punctatus,,U,no usable coordinate and no parsable candidate gene symbol,Channel catfish reference genome,,GCF_001660625.3,,0
+S005,Epinephelus lanceolatus,,B,position unusable (assembly not stated) and no candidate gene reported,NR,,GCF_041903045.1,snp,0
+S006,Epinephelus lanceolatus,,B,position unusable (assembly not stated) and no candidate gene reported,NR,,GCF_041903045.1,snp,0
+S007,Epinephelus lanceolatus,,B,position unusable (assembly not stated) and no candidate gene reported,NR,,GCF_041903045.1,snp,0
+S008,Epinephelus fuscoguttatus,,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,NR,,GCF_011397635.1,snp,1
+S009,Hypophthalmichthys nobilis,Ctenopharyngodon idella,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_019924925.1,,1
+S010,Micropterus salmoides,,A2,"exact position on stated chromosome-level assembly GCA_019677235.1, but gene annotation taken from GCF_014851395.1; coordinate systems differ",GCA_019677235.1,GCA_019677235.1,GCF_014851395.1,snp,3
+S011,Micropterus salmoides,,A2,"exact position on stated chromosome-level assembly GCA_019677235.1, but gene annotation taken from GCF_014851395.1; coordinate systems differ",GCA_019677235.1,GCA_019677235.1,GCF_014851395.1,snp,0
+S012,Micropterus salmoides,,A2,"exact position on stated chromosome-level assembly GCA_019677235.1, but gene annotation taken from GCF_014851395.1; coordinate systems differ",GCA_019677235.1,GCA_019677235.1,GCF_014851395.1,snp,0
+S013,Lateolabrax maculatus,,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,L. maculatus improved draft,,GCA_031216445.1,snp,1
+S014,Lateolabrax maculatus,,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,L. maculatus improved draft,,GCA_031216445.1,snp,1
+S015,Lateolabrax maculatus,,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,L. maculatus improved draft,,GCA_031216445.1,snp,2
+S016,Lateolabrax maculatus,,B,position unusable (assembly not stated) and no candidate gene reported,L. maculatus improved draft,,GCA_031216445.1,snp,0
+S017,Oreochromis niloticus,,A1,"exact position on the stated assembly, which is annotated and used directly",GCF_001858045.2,GCF_001858045.2,GCF_001858045.2,snp,2
+S018,Epinephelus tukula,Epinephelus lanceolatus,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,Unpublished E. tukula assembly,,GCF_041903045.1,snp,6
+S019,Epinephelus tukula,Epinephelus lanceolatus,B,position unusable (assembly not stated) and no candidate gene reported,Unpublished E. tukula assembly,,GCF_041903045.1,snp,0
+S020,Epinephelus tukula,Epinephelus lanceolatus,B,position unusable (assembly not stated) and no candidate gene reported,Unpublished E. tukula assembly,,GCF_041903045.1,snp,0
+S021,Epinephelus tukula,Epinephelus lanceolatus,B,position unusable (assembly not stated) and no candidate gene reported,Unpublished E. tukula assembly,,GCF_041903045.1,snp,0
+S022,Epinephelus tukula,Epinephelus lanceolatus,B,position unusable (assembly not stated) and no candidate gene reported,Unpublished E. tukula assembly,,GCF_041903045.1,snp,0
+S023,Ictalurus punctatus,,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,Channel catfish reference genome,,GCF_001660625.3,snp,1
+S024,Ictalurus punctatus,,B,position reported but assembly not stated or ambiguous; falls back to gene anchoring,Channel catfish reference genome,,GCF_001660625.3,snp,1
+S025,Culter alburnus,,B,no usable marker coordinate; anchored on reported candidate gene(s),GWHBOSX00000000,,GCA_040182925.1,,4
+S026,Channa maculata,Channa argus,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_033026475.1,,1
+S027,Ctenopharyngodon idella,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_019924925.1,,1
+W001,Salmo salar,,B,no usable marker coordinate; anchored on reported candidate gene(s),Atlantic salmon draft assembly (ASalBase),,GCF_965601325.1,,3
+W002,Salmo salar,,B,no usable marker coordinate; anchored on reported candidate gene(s),AGKD00000000.4,,GCF_965601325.1,,6
+W003,Ictalurus punctatus,,U,no usable coordinate and no parsable candidate gene symbol,Channel catfish genome Coco_1.0,GCF_001660625.1,GCF_001660625.3,,0
+W004,Oncorhynchus mykiss,,B,no usable marker coordinate; anchored on reported candidate gene(s),Rainbow trout reference genome (Berthelot et al. 2014),,GCF_013265735.2,,3
+W005,Ictalurus punctatus,,U,no usable coordinate and no parsable candidate gene symbol,Channel catfish reference genome,,GCF_001660625.3,,0
+W006,Salmo salar,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_965601325.1,,2
+W007,Cyprinus carpio,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCF_000951615.1,GCF_000951615.1,GCF_018340385.1,,8
+W008,Epinephelus coioides,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCA_051314025.1,,13
+W009,Ictalurus punctatus,,U,no usable coordinate and no parsable candidate gene symbol,Channel catfish reference genome,,GCF_001660625.3,,0
+W010,Oncorhynchus mykiss,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCA_002163495,GCA_002163495.1,GCF_013265735.2,,6
+W011,Epinephelus lanceolatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_041903045.1,,1
+W012,Larimichthys crocea,,B,no usable marker coordinate; anchored on reported candidate gene(s),Large yellow croaker reference genome,,GCF_000972845.2,,12
+W013,Nibea albiflora,,U,no usable coordinate and no parsable candidate gene symbol,Yellow drum assembly (~565 Mb),,GCA_014281875.1,,0
+W014,Oncorhynchus mykiss,,U,no usable coordinate and no parsable candidate gene symbol,NR,,GCF_013265735.2,,0
+W015,Oreochromis niloticus,,B,no usable marker coordinate; anchored on reported candidate gene(s),O. niloticus GCA_001858045.3,GCA_001858045.3,GCF_001858045.2,,5
+W016,Cyprinus carpio,,B,no usable marker coordinate; anchored on reported candidate gene(s),Common carp (Songpu strain) genome,,GCF_018340385.1,,3
+W017,Epinephelus fuscoguttatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_011397635.1,,3
+W018,Larimichthys crocea,,B,no usable marker coordinate; anchored on reported candidate gene(s),RQIN00000000 (Li and Durbin 2009),,GCF_000972845.2,,6
+W019,Oncorhynchus mykiss,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCF_002163495 (Omyk_1.0),GCF_002163495.1,GCF_013265735.2,,6
+W020,Hypophthalmichthys nobilis,Ctenopharyngodon idella,B,no usable marker coordinate; anchored on reported candidate gene(s),Bighead carp genome,,GCF_019924925.1,,12
+W021,Lates calcarifer,,B,no usable marker coordinate; anchored on reported candidate gene(s),Asian seabass chromosome-level assembly,,GCF_001640805.2,,1
+W022,Oncorhynchus mykiss,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCF_002163495.1,GCF_002163495.1,GCF_013265735.2,,5
+W023,Oncorhynchus mykiss,,B,no usable marker coordinate; anchored on reported candidate gene(s),"GCA_013265735.3 USDA_OmykA_1.1 (Top 5 SNPs BLAST use Omyk_1.0, GCA_002163495.1 reference",GCA_013265735.3,GCF_013265735.2,,3
+W024,Oreochromis niloticus,,B,no usable marker coordinate; anchored on reported candidate gene(s),Nile tilapia chromosome-level assembly,,GCF_001858045.2,,8
+W025,Oreochromis niloticus,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCF_001858045.1,GCF_001858045.1,GCF_001858045.2,,6
+W026,Oreochromis niloticus,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCA_001858045.3,GCA_001858045.3,GCF_001858045.2,,3
+W027,Takifugu bimaculatus,,U,no usable coordinate and no parsable candidate gene symbol,NR,,GCA_004026145.2,,0
+W028,Hypophthalmichthys nobilis,Ctenopharyngodon idella,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_019924925.1,,1
+W029,Larimichthys crocea,,B,position unusable (assembly not stated) and no candidate gene reported,PRJNA505758,,GCF_000972845.2,region,0
+W030,Leiocassis longirostris,Tachysurus fulvidraco,B,no usable marker coordinate; anchored on reported candidate gene(s),PRJNA692071,,GCF_022655615.1,,8
+W031,Oplegnathus fasciatus,,U,no annotated genome for species and no eligible chromosome-level proxy,Rock bream reference genome,,,,0
+W032,Paralichthys olivaceus,,B,no usable marker coordinate; anchored on reported candidate gene(s),Not reported (all three),,GCF_024713975.1,,1
+W033,Siniperca chuatsi,,B,no usable marker coordinate; anchored on reported candidate gene(s),Not reported (all),,GCF_020085105.1,,8
+W034,Tachysurus fulvidraco,,B,no usable marker coordinate; anchored on reported candidate gene(s),"Yellow catfish reference genome, exact assembly not stated",,GCF_022655615.1,,5
+W035,Clarias macrocephalus,Clarias gariepinus,B,no usable marker coordinate; anchored on reported candidate gene(s),Not reported (all),,GCF_024256425.1,,3
+W036,Ctenopharyngodon idella,,U,no usable coordinate and no parsable candidate gene symbol,Not reported (all),,GCF_019924925.1,,0
+W037,Epinephelus coioides,,B,no usable marker coordinate; anchored on reported candidate gene(s),Not reported (all),,GCA_051314025.1,,8
+W038,Lateolabrax maculatus,,U,no usable coordinate and no parsable candidate gene symbol,Not reported (all),,GCA_031216445.1,,0
+W039,Trachinotus ovatus,,U,no annotated genome for species and no eligible chromosome-level proxy,"Chromosome-level reference genome, exact assembly unstated",,,,0
+W040,Channa maculata,Channa argus,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_033026475.1,,2
+W041,Ctenopharyngodon idella,,B,no usable marker coordinate; anchored on reported candidate gene(s),"Grass carp reference genome, exact assembly not stated",,GCF_019924925.1,,8
+W042,Lateolabrax maculatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),L. maculatus improved draft assembly,,GCA_031216445.1,,3
+W043,Lateolabrax maculatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),Not reported (all),,GCA_031216445.1,,4
+W044,Micropterus salmoides,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCA_019677235.1,GCA_019677235.1,GCF_014851395.1,,5
+W045,Siniperca chuatsi,,B,no usable marker coordinate; anchored on reported candidate gene(s),"Mandarin fish genome (He et al., 2020)",,GCF_020085105.1,,4
+W046,Sparus aurata,,B,no usable marker coordinate; anchored on reported candidate gene(s),Gilthead seabream genome reference,,GCF_900880675.2,,9
+W047,Ctenopharyngodon idella,,U,no usable coordinate and no parsable candidate gene symbol,"Grass carp reference genome, reads mapped with BWA-MEM, assembly accession unstated",,GCF_019924925.1,,0
+W048,Cyprinus carpio,,U,no usable coordinate and no parsable candidate gene symbol,Common carp reference genome,,GCF_018340385.1,,0
+W049,Epinephelus tukula,Epinephelus lanceolatus,B,no usable marker coordinate; anchored on reported candidate gene(s),Unpublished E. tukula reference genome,,GCF_041903045.1,,6
+W050,Lates calcarifer,,U,no usable coordinate and no parsable candidate gene symbol,Asian seabass reference genome,,GCF_001640805.2,,0
+W051,Mastacembelus armatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_900324485.3,,3
+W052,Micropterus salmoides,,B,no usable marker coordinate; anchored on reported candidate gene(s),Not reported (all)+K18,,GCF_014851395.1,,7
+W053,Oncorhynchus mykiss,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCA_002163495.1,GCA_002163495.1,GCF_013265735.2,,1
+W054,Oreochromis niloticus,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCF_001858045.2 (Nile tilapia),GCF_001858045.2,GCF_001858045.2,,11
+W055,Trachinotus ovatus,,U,no annotated genome for species and no eligible chromosome-level proxy,"Improved golden pompano genome assembly, exact assembly unstated",,,,5
+W056,Ctenopharyngodon idella,,B,no usable marker coordinate; anchored on reported candidate gene(s),NR,,GCF_019924925.1,,3
+W057,Culter alburnus,,B,no usable marker coordinate; anchored on reported candidate gene(s),"GWHBOSX00000000 (CNCB), 1.05 Gb",,GCA_040182925.1,,4
+W058,Ictalurus punctatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),Channel catfish reference genome,,GCF_001660625.3,,1
+W059,Lateolabrax maculatus,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCA_004028665.1 (~668 Mb),GCA_004028665.1,GCA_031216445.1,,3
+W060,Paralichthys olivaceus,,B,no usable marker coordinate; anchored on reported candidate gene(s),GCF_024713975.1,GCF_024713975.1,GCF_024713975.1,,3
+W061,Plecoglossus altivelis,Hypomesus transpacificus,B,no usable marker coordinate; anchored on reported candidate gene(s),Pal_1.0,,GCF_021917145.1,,6
+W062,Siniperca chuatsi,,U,no usable coordinate and no parsable candidate gene symbol,ASM2008510v1,GCF_020085105.1,GCF_020085105.1,,0

@@ -1,0 +1,264 @@
+locus_id,anchor_id,anchor_kind,anchor_gene,species,source_assembly,chrom,pos,tier
+S001,S001:E2F,gene,E2F,Salmo salar,GCF_965601325.1,Ssa13,,B
+S002,S002:RAI2,gene,RAI2,Salmo salar,GCF_965601325.1,Ssa17,,B
+S008,S008:bmp2k,gene,bmp2k,Epinephelus fuscoguttatus,GCF_011397635.1,Chr 23,29601315.0,B
+S009,S009:fndc5b,gene,fndc5b,Hypophthalmichthys nobilis,GCF_019924925.1,LG16,,B
+S010,S010:pos,snp,,Micropterus salmoides,GCF_014851395.1,Chr 23,8370508.0,A2
+S010,S010:igf1,gene,igf1,Micropterus salmoides,GCF_014851395.1,Chr 23,8370508.0,A2
+S010,S010:myf5,gene,myf5,Micropterus salmoides,GCF_014851395.1,Chr 23,8370508.0,A2
+S010,S010:myf6,gene,myf6,Micropterus salmoides,GCF_014851395.1,Chr 23,8370508.0,A2
+S011,S011:pos,snp,,Micropterus salmoides,GCF_014851395.1,Chr 23,20121867.0,A2
+S012,S012:pos,snp,,Micropterus salmoides,GCF_014851395.1,Chr 1,3391027.0,A2
+S013,S013:SORCS2,gene,SORCS2,Lateolabrax maculatus,GCA_031216445.1,Chr 16,13133726.0,B
+S014,S014:SORCS2,gene,SORCS2,Lateolabrax maculatus,GCA_031216445.1,Chr 16,13209537.0,B
+S015,S015:ZNF436,gene,ZNF436,Lateolabrax maculatus,GCA_031216445.1,Chr 16,14468078.0,B
+S015,S015:SLC7A8,gene,SLC7A8,Lateolabrax maculatus,GCA_031216445.1,Chr 16,14468078.0,B
+S017,S017:pos,snp,,Oreochromis niloticus,GCF_001858045.2,Chr 7,47464467.0,A1
+S017,S017:galnt9,gene,galnt9,Oreochromis niloticus,GCF_001858045.2,Chr 7,47464467.0,A1
+S017,S017:esrrg,gene,esrrg,Oreochromis niloticus,GCF_001858045.2,Chr 7,47464467.0,A1
+S018,S018:CCDC102A,gene,CCDC102A,Epinephelus tukula,GCF_041903045.1,Chr 3,7087462.0,B
+S018,S018:NTRK2,gene,NTRK2,Epinephelus tukula,GCF_041903045.1,Chr 3,7087462.0,B
+S018,S018:CTSL,gene,CTSL,Epinephelus tukula,GCF_041903045.1,Chr 3,7087462.0,B
+S018,S018:OTOF,gene,OTOF,Epinephelus tukula,GCF_041903045.1,Chr 3,7087462.0,B
+S018,S018:nestin,gene,nestin,Epinephelus tukula,GCF_041903045.1,Chr 3,7087462.0,B
+S018,S018:nes,gene,nes,Epinephelus tukula,GCF_041903045.1,Chr 3,7087462.0,B
+S023,S023:rrp44,gene,rrp44,Ictalurus punctatus,GCF_001660625.3,Chr 20,14657971.0,B
+S024,S024:rrp44,gene,rrp44,Ictalurus punctatus,GCF_001660625.3,Chr 20,14658012.0,B
+S025,S025:aig1,gene,aig1,Culter alburnus,GCA_040182925.1,Chr 16 / Chr 19,,B
+S025,S025:cacna1b,gene,cacna1b,Culter alburnus,GCA_040182925.1,Chr 16 / Chr 19,,B
+S025,S025:pgm5,gene,pgm5,Culter alburnus,GCA_040182925.1,Chr 16 / Chr 19,,B
+S025,S025:bcr,gene,bcr,Culter alburnus,GCA_040182925.1,Chr 16 / Chr 19,,B
+S026,S026:HS6ST1,gene,HS6ST1,Channa maculata,GCF_033026475.1,,,B
+S027,S027:UBL5,gene,UBL5,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W001,W001:MDH,gene,MDH,Salmo salar,GCF_965601325.1,,,B
+W001,W001:FRA10AC1,gene,FRA10AC1,Salmo salar,GCF_965601325.1,,,B
+W001,W001:E2F,gene,E2F,Salmo salar,GCF_965601325.1,,,B
+W002,W002:RAI2,gene,RAI2,Salmo salar,GCF_965601325.1,,,B
+W002,W002:POMT1,gene,POMT1,Salmo salar,GCF_965601325.1,,,B
+W002,W002:AGRN,gene,AGRN,Salmo salar,GCF_965601325.1,,,B
+W002,W002:NOTCH3,gene,NOTCH3,Salmo salar,GCF_965601325.1,,,B
+W002,W002:MYH9,gene,MYH9,Salmo salar,GCF_965601325.1,,,B
+W002,W002:MYO18AB,gene,MYO18AB,Salmo salar,GCF_965601325.1,,,B
+W004,W004:Sox2,gene,Sox2,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W004,W004:Trim33,gene,Trim33,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W004,W004:Ksr1,gene,Ksr1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W006,W006:VTN,gene,VTN,Salmo salar,GCF_965601325.1,,,B
+W006,W006:MRAP2,gene,MRAP2,Salmo salar,GCF_965601325.1,,,B
+W007,W007:igf1,gene,igf1,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:igf3,gene,igf3,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:grb10,gene,grb10,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:igf1r,gene,igf1r,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:notch2,gene,notch2,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:sfrp2,gene,sfrp2,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:srpk2,gene,srpk2,Cyprinus carpio,GCF_018340385.1,,,B
+W007,W007:fsrp5,gene,fsrp5,Cyprinus carpio,GCF_018340385.1,,,B
+W008,W008:npy2r,gene,npy2r,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:adgrb2,gene,adgrb2,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:csnk2a1,gene,csnk2a1,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:cers5,gene,cers5,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:col22a1,gene,col22a1,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:creb5,gene,creb5,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:dnd1,gene,dnd1,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:dzank1,gene,dzank1,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:dnai1,gene,dnai1,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:fat3,gene,fat3,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:lrrk2,gene,lrrk2,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:lrp5,gene,lrp5,Epinephelus coioides,GCA_051314025.1,,,B
+W008,W008:map3k9,gene,map3k9,Epinephelus coioides,GCA_051314025.1,,,B
+W010,W010:ETFDH,gene,ETFDH,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W010,W010:LAMP2,gene,LAMP2,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W010,W010:TNFRSF5A,gene,TNFRSF5A,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W010,W010:cd34a,gene,cd34a,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W010,W010:mcts1,gene,mcts1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W010,W010:slc26a9,gene,slc26a9,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W011,W011:ABHD17C,gene,ABHD17C,Epinephelus lanceolatus,GCF_041903045.1,,,B
+W012,W012:fgf1,gene,fgf1,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:nr3c1,gene,nr3c1,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:cyp8b1,gene,cyp8b1,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:fabp2,gene,fabp2,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:cyp2r1,gene,cyp2r1,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:ppara,gene,ppara,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:col1a1,gene,col1a1,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:col11a2,gene,col11a2,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:col18a1,gene,col18a1,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:fgf18,gene,fgf18,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:ccm2l,gene,ccm2l,Larimichthys crocea,GCF_000972845.2,,,B
+W012,W012:bmp7,gene,bmp7,Larimichthys crocea,GCF_000972845.2,,,B
+W015,W015:RAB31,gene,RAB31,Oreochromis niloticus,GCF_001858045.2,,,B
+W015,W015:FSTL3,gene,FSTL3,Oreochromis niloticus,GCF_001858045.2,,,B
+W015,W015:NPR1,gene,NPR1,Oreochromis niloticus,GCF_001858045.2,,,B
+W015,W015:EXTL3,gene,EXTL3,Oreochromis niloticus,GCF_001858045.2,,,B
+W015,W015:UTP6,gene,UTP6,Oreochromis niloticus,GCF_001858045.2,,,B
+W016,W016:TOX,gene,TOX,Cyprinus carpio,GCF_018340385.1,,,B
+W016,W016:PLK2,gene,PLK2,Cyprinus carpio,GCF_018340385.1,,,B
+W016,W016:CD163,gene,CD163,Cyprinus carpio,GCF_018340385.1,,,B
+W017,W017:bmp2k,gene,bmp2k,Epinephelus fuscoguttatus,GCF_011397635.1,,,B
+W017,W017:wasf1,gene,wasf1,Epinephelus fuscoguttatus,GCF_011397635.1,,,B
+W017,W017:acyp2,gene,acyp2,Epinephelus fuscoguttatus,GCF_011397635.1,,,B
+W018,W018:fabp1,gene,fabp1,Larimichthys crocea,GCF_000972845.2,,,B
+W018,W018:acrv1,gene,acrv1,Larimichthys crocea,GCF_000972845.2,,,B
+W018,W018:bcor,gene,bcor,Larimichthys crocea,GCF_000972845.2,,,B
+W018,W018:mstn,gene,mstn,Larimichthys crocea,GCF_000972845.2,,,B
+W018,W018:bambi,gene,bambi,Larimichthys crocea,GCF_000972845.2,,,B
+W018,W018:neo1,gene,neo1,Larimichthys crocea,GCF_000972845.2,,,B
+W019,W019:OCRL-1,gene,OCRL-1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W019,W019:THBS1,gene,THBS1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W019,W019:MAP4,gene,MAP4,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W019,W019:PHGDH,gene,PHGDH,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W019,W019:CAV-1,gene,CAV-1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W019,W019:CCND1,gene,CCND1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W020,W020:cc2b,gene,cc2b,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:prdm1b,gene,prdm1b,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:fndc5b,gene,fndc5b,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:lbr,gene,lbr,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:bmp8a,gene,bmp8a,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:ATP6v1cb,gene,ATP6v1cb,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:ptch1,gene,ptch1,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:col9a1a,gene,col9a1a,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:tgfbr2,gene,tgfbr2,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:hecw2a,gene,hecw2a,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:zbtb42,gene,zbtb42,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W020,W020:sema7a,gene,sema7a,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W021,W021:gh1,gene,gh1,Lates calcarifer,GCF_001640805.2,,,B
+W022,W022:htr1,gene,htr1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W022,W022:gnpat,gene,gnpat,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W022,W022:ephx1,gene,ephx1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W022,W022:bcmo1,gene,bcmo1,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W022,W022:cyp2x,gene,cyp2x,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W023,W023:STAT5B,gene,STAT5B,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W023,W023:STAT3,gene,STAT3,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W023,W023:CISH,gene,CISH,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W024,W024:FUT8,gene,FUT8,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:SLC4A2,gene,SLC4A2,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:ADAMTS9,gene,ADAMTS9,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:HEG1,gene,HEG1,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:COL4A1,gene,COL4A1,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:GDF6,gene,GDF6,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:ASB2,gene,ASB2,Oreochromis niloticus,GCF_001858045.2,,,B
+W024,W024:NUP107,gene,NUP107,Oreochromis niloticus,GCF_001858045.2,,,B
+W025,W025:igf1rb,gene,igf1rb,Oreochromis niloticus,GCF_001858045.2,,,B
+W025,W025:rora,gene,rora,Oreochromis niloticus,GCF_001858045.2,,,B
+W025,W025:efna3,gene,efna3,Oreochromis niloticus,GCF_001858045.2,,,B
+W025,W025:aurk,gene,aurk,Oreochromis niloticus,GCF_001858045.2,,,B
+W025,W025:MAPK,gene,MAPK,Oreochromis niloticus,GCF_001858045.2,,,B
+W025,W025:VEGF,gene,VEGF,Oreochromis niloticus,GCF_001858045.2,,,B
+W026,W026:ghrh,gene,ghrh,Oreochromis niloticus,GCF_001858045.2,,,B
+W026,W026:eif4e3,gene,eif4e3,Oreochromis niloticus,GCF_001858045.2,,,B
+W026,W026:ntrk3a,gene,ntrk3a,Oreochromis niloticus,GCF_001858045.2,,,B
+W028,W028:fndc5b,gene,fndc5b,Hypophthalmichthys nobilis,GCF_019924925.1,,,B
+W030,W030:ky,gene,ky,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:coma1,gene,coma1,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:matn1,gene,matn1,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:sdc3,gene,sdc3,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:kif3a,gene,kif3a,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:h1b,gene,h1b,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:rerg,gene,rerg,Leiocassis longirostris,GCF_022655615.1,,,B
+W030,W030:enox2,gene,enox2,Leiocassis longirostris,GCF_022655615.1,,,B
+W032,W032:AXDND1,gene,AXDND1,Paralichthys olivaceus,GCF_024713975.1,,,B
+W033,W033:asns,gene,asns,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:tg,gene,tg,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:mkk6,gene,mkk6,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:htra1,gene,htra1,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:rnf213,gene,rnf213,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:ttn,gene,ttn,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:tgfbr2,gene,tgfbr2,Siniperca chuatsi,GCF_020085105.1,,,B
+W033,W033:nck2,gene,nck2,Siniperca chuatsi,GCF_020085105.1,,,B
+W034,W034:stat5b,gene,stat5b,Tachysurus fulvidraco,GCF_022655615.1,,,B
+W034,W034:kcnh4,gene,kcnh4,Tachysurus fulvidraco,GCF_022655615.1,,,B
+W034,W034:ptrf,gene,ptrf,Tachysurus fulvidraco,GCF_022655615.1,,,B
+W034,W034:rab5c,gene,rab5c,Tachysurus fulvidraco,GCF_022655615.1,,,B
+W034,W034:stat3,gene,stat3,Tachysurus fulvidraco,GCF_022655615.1,,,B
+W035,W035:egln2,gene,egln2,Clarias macrocephalus,GCF_024256425.1,,,B
+W035,W035:zfyve21,gene,zfyve21,Clarias macrocephalus,GCF_024256425.1,,,B
+W035,W035:jph3a,gene,jph3a,Clarias macrocephalus,GCF_024256425.1,,,B
+W037,W037:mustn1,gene,mustn1,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:bmp7,gene,bmp7,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:sema3a,gene,sema3a,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:magi2,gene,magi2,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:prkcd,gene,prkcd,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:capzb,gene,capzb,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:twf2,gene,twf2,Epinephelus coioides,GCA_051314025.1,,,B
+W037,W037:eps8l2,gene,eps8l2,Epinephelus coioides,GCA_051314025.1,,,B
+W040,W040:HS6ST1,gene,HS6ST1,Channa maculata,GCF_033026475.1,,,B
+W040,W040:weight,gene,weight,Channa maculata,GCF_033026475.1,,,B
+W041,W041:cers5,gene,cers5,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:ctnnbip1,gene,ctnnbip1,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:smoc2,gene,smoc2,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:ano6,gene,ano6,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:cckrb,gene,cckrb,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:pwp1,gene,pwp1,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:chrebp,gene,chrebp,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W041,W041:lsr,gene,lsr,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W042,W042:SORCS2,gene,SORCS2,Lateolabrax maculatus,GCA_031216445.1,,,B
+W042,W042:ZNF436,gene,ZNF436,Lateolabrax maculatus,GCA_031216445.1,,,B
+W042,W042:SLC7A8,gene,SLC7A8,Lateolabrax maculatus,GCA_031216445.1,,,B
+W043,W043:c4b,gene,c4b,Lateolabrax maculatus,GCA_031216445.1,,,B
+W043,W043:fgf4,gene,fgf4,Lateolabrax maculatus,GCA_031216445.1,,,B
+W043,W043:dnajb9,gene,dnajb9,Lateolabrax maculatus,GCA_031216445.1,,,B
+W043,W043:SNP-based,gene,SNP-based,Lateolabrax maculatus,GCA_031216445.1,,,B
+W044,W044:igf1,gene,igf1,Micropterus salmoides,GCF_014851395.1,,,B
+W044,W044:myf5,gene,myf5,Micropterus salmoides,GCF_014851395.1,,,B
+W044,W044:myf6,gene,myf6,Micropterus salmoides,GCF_014851395.1,,,B
+W044,W044:igf2r,gene,igf2r,Micropterus salmoides,GCF_014851395.1,,,B
+W044,W044:cavin4b,gene,cavin4b,Micropterus salmoides,GCF_014851395.1,,,B
+W045,W045:AKT2,gene,AKT2,Siniperca chuatsi,GCF_020085105.1,,,B
+W045,W045:CCNT2,gene,CCNT2,Siniperca chuatsi,GCF_020085105.1,,,B
+W045,W045:EPB41L2,gene,EPB41L2,Siniperca chuatsi,GCF_020085105.1,,,B
+W045,W045:CAMKMT,gene,CAMKMT,Siniperca chuatsi,GCF_020085105.1,,,B
+W046,W046:ncan,gene,ncan,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:znf292,gene,znf292,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:traf2a,gene,traf2a,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:tnc,gene,tnc,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:zfr,gene,zfr,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:uqcc1,gene,uqcc1,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:gdf5,gene,gdf5,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:hmgcra,gene,hmgcra,Sparus aurata,GCF_900880675.2,,,B
+W046,W046:gnai2b,gene,gnai2b,Sparus aurata,GCF_900880675.2,,,B
+W049,W049:CCDC102A,gene,CCDC102A,Epinephelus tukula,GCF_041903045.1,,,B
+W049,W049:NTRK2,gene,NTRK2,Epinephelus tukula,GCF_041903045.1,,,B
+W049,W049:CTSL,gene,CTSL,Epinephelus tukula,GCF_041903045.1,,,B
+W049,W049:OTOF,gene,OTOF,Epinephelus tukula,GCF_041903045.1,,,B
+W049,W049:nestin,gene,nestin,Epinephelus tukula,GCF_041903045.1,,,B
+W049,W049:nes,gene,nes,Epinephelus tukula,GCF_041903045.1,,,B
+W051,W051:ppt1,gene,ppt1,Mastacembelus armatus,GCF_900324485.3,,,B
+W051,W051:cap1,gene,cap1,Mastacembelus armatus,GCF_900324485.3,,,B
+W051,W051:fgfr2,gene,fgfr2,Mastacembelus armatus,GCF_900324485.3,,,B
+W052,W052:llgl2,gene,llgl2,Micropterus salmoides,GCF_014851395.1,,,B
+W052,W052:myo15b,gene,myo15b,Micropterus salmoides,GCF_014851395.1,,,B
+W052,W052:shisa6,gene,shisa6,Micropterus salmoides,GCF_014851395.1,,,B
+W052,W052:plcd3a,gene,plcd3a,Micropterus salmoides,GCF_014851395.1,,,B
+W052,W052:galk1,gene,galk1,Micropterus salmoides,GCF_014851395.1,,,B
+W052,W052:acbd4,gene,acbd4,Micropterus salmoides,GCF_014851395.1,,,B
+W052,W052:pard3,gene,pard3,Micropterus salmoides,GCF_014851395.1,,,B
+W053,W053:sema6ba,gene,sema6ba,Oncorhynchus mykiss,GCF_013265735.2,,,B
+W054,W054:galnt9,gene,galnt9,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:esrrg,gene,esrrg,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:map7,gene,map7,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:mtfr2,gene,mtfr2,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:kcnj8,gene,kcnj8,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:fhit,gene,fhit,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:dnm1,gene,dnm1,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:cald1,gene,cald1,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:plxnb2,gene,plxnb2,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:nuak1,gene,nuak1,Oreochromis niloticus,GCF_001858045.2,,,B
+W054,W054:bpgm,gene,bpgm,Oreochromis niloticus,GCF_001858045.2,,,B
+W056,W056:UBL5,gene,UBL5,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W056,W056:GNG7,gene,GNG7,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W056,W056:SLC16A2,gene,SLC16A2,Ctenopharyngodon idella,GCF_019924925.1,,,B
+W057,W057:aig1,gene,aig1,Culter alburnus,GCA_040182925.1,,,B
+W057,W057:cacna1b,gene,cacna1b,Culter alburnus,GCA_040182925.1,,,B
+W057,W057:pgm5,gene,pgm5,Culter alburnus,GCA_040182925.1,,,B
+W057,W057:bcr,gene,bcr,Culter alburnus,GCA_040182925.1,,,B
+W058,W058:rrp44,gene,rrp44,Ictalurus punctatus,GCF_001660625.3,,,B
+W059,W059:pkce,gene,pkce,Lateolabrax maculatus,GCA_031216445.1,,,B
+W059,W059:slc28a3,gene,slc28a3,Lateolabrax maculatus,GCA_031216445.1,,,B
+W059,W059:cdk5,gene,cdk5,Lateolabrax maculatus,GCA_031216445.1,,,B
+W060,W060:fras1,gene,fras1,Paralichthys olivaceus,GCF_024713975.1,,,B
+W060,W060:nkd1,gene,nkd1,Paralichthys olivaceus,GCF_024713975.1,,,B
+W060,W060:lamb4,gene,lamb4,Paralichthys olivaceus,GCF_024713975.1,,,B
+W061,W061:abat,gene,abat,Plecoglossus altivelis,GCF_021917145.1,,,B
+W061,W061:maml3,gene,maml3,Plecoglossus altivelis,GCF_021917145.1,,,B
+W061,W061:LOC124013321,gene,LOC124013321,Plecoglossus altivelis,GCF_021917145.1,,,B
+W061,W061:slc25a12,gene,slc25a12,Plecoglossus altivelis,GCF_021917145.1,,,B
+W061,W061:dnah10,gene,dnah10,Plecoglossus altivelis,GCF_021917145.1,,,B
+W061,W061:syt9a,gene,syt9a,Plecoglossus altivelis,GCF_021917145.1,,,B

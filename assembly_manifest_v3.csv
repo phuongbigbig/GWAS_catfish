@@ -1,0 +1,51 @@
+species,has_own_annotated_assembly,own_assembly,own_assembly_name,own_assembly_level,proxy_species,analysis_assembly,analysis_assembly_name,analysis_assembly_level,n_loci,role
+Argyrosomus regius,False,,,,Nibea albiflora,GCA_014281875.1,ASM1428187v1,Chromosome,1,source
+Channa argus,True,GCF_033026475.1,Channa argus male v1.0,Chromosome,,GCF_033026475.1,Channa argus male v1.0,Chromosome,1,source
+Channa maculata,False,,,,Channa argus,GCF_033026475.1,Channa argus male v1.0,Chromosome,2,source
+Chrysophrys auratus,False,,,,Sparus aurata,GCF_900880675.2,fSpaAur1.2,Chromosome,1,source
+Clarias fuscus,False,,,,Clarias gariepinus,GCF_024256425.1,CGAR_prim_01v2,Chromosome,2,source
+Clarias macrocephalus,False,,,,Clarias gariepinus,GCF_024256425.1,CGAR_prim_01v2,Chromosome,2,source
+Ctenopharyngodon idella,True,GCF_019924925.1,HZGC01,Chromosome,,GCF_019924925.1,HZGC01,Chromosome,3,source
+Culter alburnus,True,GCA_040182925.1,ASM4018292v1,Chromosome,,GCA_040182925.1,ASM4018292v1,Chromosome,2,source
+Cynoglossus semilaevis,True,GCF_000523025.1,Cse_v1.0,Chromosome,,GCF_000523025.1,Cse_v1.0,Chromosome,1,source
+Cyprinus carpio,True,GCF_018340385.1,ASM1834038v1,Chromosome,,GCF_018340385.1,ASM1834038v1,Chromosome,5,source
+Dentex dentex,False,,,,Sparus aurata,GCF_900880675.2,fSpaAur1.2,Chromosome,1,source
+Dicentrarchus labrax,True,GCF_905237075.1,dlabrax2021,Scaffold,,GCF_905237075.1,dlabrax2021,Scaffold,1,source
+Epinephelus bruneus,False,,,,Epinephelus lanceolatus,GCF_041903045.1,ASM4190304v1,Chromosome,1,source
+Epinephelus coioides,True,GCA_051314025.1,ASM5131402v1,Chromosome,,GCA_051314025.1,ASM5131402v1,Chromosome,3,source
+Epinephelus fuscoguttatus,True,GCF_011397635.1,E.fuscoguttatus.final_Chr_v1,Chromosome,,GCF_011397635.1,E.fuscoguttatus.final_Chr_v1,Chromosome,2,source
+Epinephelus lanceolatus,True,GCF_041903045.1,ASM4190304v1,Chromosome,,GCF_041903045.1,ASM4190304v1,Chromosome,5,source
+Epinephelus tukula,False,,,,Epinephelus lanceolatus,GCF_041903045.1,ASM4190304v1,Chromosome,6,source
+Hypophthalmichthys molitrix,False,,,,Ctenopharyngodon idella,GCF_019924925.1,HZGC01,Chromosome,1,source
+Hypophthalmichthys nobilis,False,,,,Ctenopharyngodon idella,GCF_019924925.1,HZGC01,Chromosome,4,source
+Ictalurus punctatus,True,GCF_001660625.3,Coco_2.0,Chromosome,,GCF_001660625.3,Coco_2.0,Chromosome,8,source
+Larimichthys crocea,True,GCF_000972845.2,L_crocea_2.0,Chromosome,,GCF_000972845.2,L_crocea_2.0,Chromosome,4,source
+Larimichthys polyactis,False,,,,Larimichthys crocea,GCF_000972845.2,L_crocea_2.0,Chromosome,1,source
+Lateolabrax maculatus,True,GCA_031216445.1,YSFRI_Lmacu_1.1,Chromosome,,GCA_031216445.1,YSFRI_Lmacu_1.1,Chromosome,7,source
+Lates calcarifer,True,GCF_001640805.2,TLL_Latcal_v3,Chromosome,,GCF_001640805.2,TLL_Latcal_v3,Chromosome,1,source
+Leiocassis longirostris,False,,,,Tachysurus fulvidraco,GCF_022655615.1,HZAU_PFXX_2.0,Chromosome,1,source
+Mastacembelus armatus,True,GCF_900324485.3,fMasArm1.3,Chromosome,,GCF_900324485.3,fMasArm1.3,Chromosome,1,source
+Micropterus salmoides,True,GCF_014851395.1,ASM1485139v1,Scaffold,,GCF_014851395.1,ASM1485139v1,Scaffold,6,source
+Nibea albiflora,True,GCA_014281875.1,ASM1428187v1,Chromosome,,GCA_014281875.1,ASM1428187v1,Chromosome,1,source
+Oncorhynchus kisutch,True,GCF_002021735.2,Okis_V2,Chromosome,,GCF_002021735.2,Okis_V2,Chromosome,1,source
+Oncorhynchus mykiss,True,GCF_013265735.2,USDA_OmykA_1.1,Chromosome,,GCF_013265735.2,USDA_OmykA_1.1,Chromosome,6,source
+Oplegnathus fasciatus,False,,,,,,,,1,source
+Oreochromis niloticus,True,GCF_001858045.2,O_niloticus_UMD_NMBU,Chromosome,,GCF_001858045.2,O_niloticus_UMD_NMBU,Chromosome,7,source
+Paralichthys olivaceus,True,GCF_024713975.1,ASM2471397v2,Chromosome,,GCF_024713975.1,ASM2471397v2,Chromosome,2,source
+Pelteobagrus vachelli,False,,,,Tachysurus fulvidraco,GCF_022655615.1,HZAU_PFXX_2.0,Chromosome,1,source
+Plecoglossus altivelis,False,,,,Hypomesus transpacificus,GCF_021917145.1,fHypTra1,Chromosome,1,source
+Salmo salar,True,GCF_965601325.1,fSalSal1,Chromosome,,GCF_965601325.1,fSalSal1,Chromosome,5,source
+Salvelinus namaycush,True,GCF_016432855.1,SaNama_1.0,Chromosome,,GCF_016432855.1,SaNama_1.0,Chromosome,1,source
+Scatophagus argus,True,GCF_020382885.2,fScaArg1.pri,Chromosome,,GCF_020382885.2,fScaArg1.pri,Chromosome,1,source
+Scophthalmus maximus,True,GCF_022379125.1,ASM2237912v1,Chromosome,,GCF_022379125.1,ASM2237912v1,Chromosome,1,source
+Seriola lalandi,True,GCF_002814215.2,Sedor1,Scaffold,,GCF_002814215.2,Sedor1,Scaffold,1,source
+Siniperca chuatsi,True,GCF_020085105.1,ASM2008510v1,Chromosome,,GCF_020085105.1,ASM2008510v1,Chromosome,2,source
+Sparus aurata,True,GCF_900880675.2,fSpaAur1.2,Chromosome,,GCF_900880675.2,fSpaAur1.2,Chromosome,2,source
+Tachysurus fulvidraco,True,GCF_022655615.1,HZAU_PFXX_2.0,Chromosome,,GCF_022655615.1,HZAU_PFXX_2.0,Chromosome,6,source
+Takifugu bimaculatus,True,GCA_004026145.2,XU_Tbim_1.0,Chromosome,,GCA_004026145.2,XU_Tbim_1.0,Chromosome,1,source
+Takifugu fasciatus,True,GCA_059138665.1,ASM5913866v1,Chromosome,,GCA_059138665.1,ASM5913866v1,Chromosome,1,source
+Takifugu rubripes,True,GCF_901000725.3,fTakRub1.3,Chromosome,,GCF_901000725.3,fTakRub1.3,Chromosome,1,source
+Trachinotus ovatus,False,,,,,,,,3,source
+Hemibagrus wyckioides,True,GCF_019097595.1,SWU_Hwy_1.0,Chromosome,,GCF_019097595.1,SWU_Hwy_1.0,Chromosome,2,source
+Pseudobagrus ussuriensis,False,,,,,,,,0,excluded_no_genome_no_candidate_gene
+Pangasianodon hypophthalmus,True,GCF_027358585.1,fPanHyp1.pri,Chromosome,,GCF_027358585.1,fPanHyp1.pri,Chromosome,7,backbone/native

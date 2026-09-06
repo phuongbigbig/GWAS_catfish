@@ -1,0 +1,135 @@
+hotspot_id,cat_chrom,start,end,span,n_loci,n_species,n_studies,classes,traits,species,loci,consistency_check
+H001,chr1,2292530,2825976,533446,2,2,2,moderate;strong,Growth,Epinephelus coioides;Oreochromis niloticus,L029;W024,OK
+H002,chr1,4809318,4809318,0,1,1,1,moderate,Growth,Salmo salar,W006,OK
+H003,chr1,9521722,9521722,0,1,1,1,unsupported,Growth,Micropterus salmoides,W044,OK
+H004,chr1,13909802,13909802,0,1,1,1,strong,Growth,Lateolabrax maculatus,W059,OK
+H005,chr1,19790995,20298848,507853,4,3,3,moderate;strong,Growth,Epinephelus coioides;Epinephelus tukula;Siniperca chuatsi,S018;W008;W033;W049,OK
+H006,chr1,22171580,22171580,0,1,1,1,strong,Growth,Lateolabrax maculatus,W043,OK
+H007,chr10,3732442,3732442,0,1,1,1,moderate,Growth,Cynoglossus semilaevis,L006,OK
+H008,chr10,11533998,11533998,0,1,1,1,moderate,Growth,Sparus aurata,W046,OK
+H009,chr10,20377830,21893414,1515584,2,2,2,strong,Growth,Hypophthalmichthys nobilis;Oreochromis niloticus,L012;W020,OK
+H010,chr10,23773737,23773737,0,1,1,1,moderate,Growth,Oreochromis niloticus,S017,OK
+H011,chr10,28236724,29529514,1292790,2,2,2,moderate;strong,Growth,Larimichthys polyactis;Oreochromis niloticus,L018;W054,OK
+H012,chr11,56204,807434,751230,3,2,2,moderate,Growth,Epinephelus tukula;Larimichthys crocea,S018;W012;W049,OK
+H013,chr11,4021960,4819095,797135,4,3,4,moderate;strong,Growth,Larimichthys crocea;Lateolabrax maculatus;Oncorhynchus mykiss,W018;W019;W022;W043,OK
+H014,chr11,5407086,6128471,721385,2,2,2,moderate;strong,Growth,Clarias macrocephalus;Epinephelus fuscoguttatus,W017;W035,OK
+H015,chr11,7744533,9595220,1850687,4,4,4,moderate;native;strong,Growth,Cynoglossus semilaevis;Epinephelus lanceolatus;Oreochromis niloticus;Pangasianodon hypophthalmus,C010;L006;W011;W025,OK
+H016,chr11,11776287,11776287,0,1,1,1,moderate,Growth,Oncorhynchus mykiss,W004,OK
+H017,chr11,15170209,16111478,941269,3,3,3,strong;weak,Growth,Oreochromis niloticus;Paralichthys olivaceus;Sparus aurata,W015;W032;W046,OK
+H018,chr11,21456709,21456709,0,1,1,1,strong,Growth,Hypophthalmichthys nobilis,W020,OK
+H019,chr11,23541189,24167390,626201,2,2,2,moderate;strong,Growth,Epinephelus coioides;Nibea albiflora,L025;L029,OK
+H020,chr12,697634,1588169,890535,3,2,2,strong,Growth,Siniperca chuatsi;Tachysurus fulvidraco,C003;W033;W034,OK
+H021,chr12,6222811,6222811,0,1,1,1,strong,Growth,Salmo salar,W001,OK
+H022,chr12,13691784,15476928,1785144,3,2,3,moderate;strong,Growth,Larimichthys crocea;Micropterus salmoides,L003;W018;W052,OK
+H023,chr13,6022088,6766808,744720,4,4,4,strong,Growth,Clarias fuscus;Micropterus salmoides;Oncorhynchus mykiss;Tachysurus fulvidraco,L005;W023;W034;W052,OK
+H024,chr13,15669976,15669976,0,1,1,1,strong,Growth,Siniperca chuatsi,W033,OK
+H025,chr13,23421421,24079708,658287,3,2,2,native;weak,Growth,Pangasianodon hypophthalmus;Plecoglossus altivelis,C011;C012;W061,OK
+H026,chr14,2486409,2486409,0,1,1,1,moderate,Growth,Epinephelus coioides,W008,OK
+H027,chr14,6492215,6492215,0,1,1,1,strong,Growth,Oreochromis niloticus,L012,OK
+H028,chr14,10756447,10756447,0,1,1,1,moderate,Growth,Salmo salar,W002,OK
+H029,chr14,16377488,17248459,870971,3,2,2,strong,Growth,Clarias macrocephalus;Ctenopharyngodon idella,C005;W035;W041,OK
+H030,chr14,21886505,21886505,0,1,1,1,moderate,Growth,Siniperca chuatsi,W045,OK
+H031,chr14,24825875,24825875,0,1,1,1,strong,Growth,Cyprinus carpio,W016,OK
+H032,chr15,3077352,3077352,0,1,1,1,strong,Growth,Salmo salar,W006,OK
+H033,chr15,5070036,6206666,1136630,2,2,2,strong,Growth,Channa argus;Hemibagrus wyckioides,C019;L002,OK
+H034,chr15,12616181,12616181,0,1,1,1,native,Growth,Pangasianodon hypophthalmus,C008,OK
+H035,chr15,16933701,16933701,0,1,1,1,weak,Growth,Micropterus salmoides,L004,OK
+H036,chr15,21502953,22151890,648937,3,2,2,strong,Growth,Culter alburnus;Epinephelus coioides,S025;W008;W057,OK
+H037,chr15,25377394,25377394,0,1,1,1,weak,Growth,Epinephelus coioides,L029,OK
+H038,chr16,607078,607078,0,1,1,1,strong,Growth,Scatophagus argus,L020,OK
+H039,chr16,3180116,4815314,1635198,2,2,2,moderate;strong,Growth,Epinephelus coioides;Oreochromis niloticus,W037;W054,OK
+H040,chr16,7557772,7557772,0,1,1,1,strong,Growth,Ctenopharyngodon idella,W041,OK
+H041,chr16,13648364,13648364,0,1,1,1,strong,Growth,Larimichthys crocea,W012,OK
+H042,chr16,16197164,16197164,0,1,1,1,strong,Growth,Scophthalmus maximus,L001,OK
+H043,chr16,18414034,18414034,0,1,1,1,strong,Growth,Oncorhynchus mykiss,W010,OK
+H044,chr16,23361901,23361901,0,2,1,1,strong,Growth,Salmo salar,S001;W001,OK
+H045,chr17,2748705,4484696,1735991,3,3,3,strong,Growth;Growth (morphometric),Cyprinus carpio;Ictalurus punctatus;Oncorhynchus mykiss,C028;L028;W004,OK
+H046,chr17,6788722,6788722,0,1,1,1,strong,Growth,Cyprinus carpio,W016,OK
+H047,chr17,15870866,15870866,0,1,1,1,moderate,Growth,Micropterus salmoides,L004,OK
+H048,chr17,23894263,23894263,0,1,1,1,strong,Growth,Epinephelus coioides,L029,OK
+H049,chr18,1462791,3412760,1949969,9,7,8,moderate;native;strong,Growth,Cynoglossus semilaevis;Cyprinus carpio;Dicentrarchus labrax;Micropterus salmoides;Oreochromis niloticus;Pangasianodon hypophthalmus;Tachysurus fulvidraco,C004;C009;L006;L027;L028;S010;W007;W024;W044,OK
+H050,chr18,7717272,7717272,0,1,1,1,moderate,Growth,Epinephelus coioides,W037,OK
+H051,chr18,9944350,9944350,0,1,1,1,strong,Growth,Leiocassis longirostris,W030,OK
+H052,chr18,14370519,16111117,1740598,3,3,3,moderate;strong,Growth,Larimichthys crocea;Oreochromis niloticus;Scatophagus argus,L020;W012;W054,OK
+H053,chr19,2139165,2291066,151901,3,3,3,moderate;strong,Growth,Hypophthalmichthys nobilis;Nibea albiflora;Scophthalmus maximus,L001;L025;W020,OK
+H054,chr19,4512299,6353851,1841552,2,2,1,moderate;native,Growth,Oncorhynchus kisutch;Pangasianodon hypophthalmus,C023;L033,OK
+H055,chr19,13118568,14848354,1729786,3,2,3,moderate;strong,Growth,Oncorhynchus mykiss;Oreochromis niloticus,W015;W019;W024,OK
+H056,chr19,16966131,16966131,0,1,1,1,weak,Growth,Micropterus salmoides,W044,OK
+H057,chr2,6433448,7967887,1534439,3,2,3,moderate;strong,Growth,Oreochromis niloticus;Sparus aurata,W025;W026;W046,OK
+H058,chr2,15679331,15679331,0,1,1,1,moderate,Growth,Oncorhynchus mykiss,W023,OK
+H059,chr2,21345791,23307115,1961324,2,2,2,strong,Growth,Cyprinus carpio;Dicentrarchus labrax,L027;L028,OK
+H060,chr2,34539518,34539518,0,1,1,1,moderate,Growth,Oreochromis niloticus,W015,OK
+H061,chr20,605571,605571,0,1,1,1,strong,Growth,Epinephelus coioides,W037,OK
+H062,chr20,3809738,5010527,1200789,2,1,2,strong;weak,Growth,Oreochromis niloticus,W024;W054,OK
+H063,chr20,14534988,14534988,0,2,2,2,strong,Growth,Ctenopharyngodon idella;Epinephelus coioides,W008;W041,OK
+H064,chr20,18406772,18406772,0,1,1,1,strong,Growth,Oreochromis niloticus,W026,OK
+H065,chr20,21940619,21940619,0,1,1,1,strong,Growth,Channa argus,L002,OK
+H066,chr21,8896000,8896000,0,1,1,1,weak,Growth,Micropterus salmoides,W052,OK
+H067,chr21,10957752,12424033,1466281,3,2,2,strong,Growth,Epinephelus coioides;Ictalurus punctatus,C001;C002;L029,OK
+H068,chr21,14672618,14672618,0,1,1,1,strong,Growth,Oreochromis niloticus,W015,OK
+H069,chr21,17744175,17744175,0,1,1,1,strong,Growth,Clarias fuscus,L005,OK
+H070,chr22,8880451,8880451,0,1,1,1,strong,Growth,Tachysurus fulvidraco,W034,OK
+H071,chr22,20747656,20747656,0,1,1,1,strong,Growth,Cyprinus carpio,L011,OK
+H072,chr23,4877110,5470251,593141,2,2,2,strong,Growth,Dentex dentex;Salmo salar,L015;W002,OK
+H073,chr23,7742668,7946669,204001,2,2,2,strong,Growth,Cyprinus carpio;Larimichthys crocea,W007;W012,OK
+H074,chr23,10232673,10637815,405142,2,2,2,strong,Growth,Epinephelus coioides;Hypophthalmichthys nobilis,W008;W020,OK
+H075,chr23,12811646,13050109,238463,2,2,2,strong,Growth,Leiocassis longirostris;Mastacembelus armatus,W030;W051,OK
+H076,chr24,2828327,2828327,0,1,1,1,moderate,Growth,Larimichthys crocea,L003,OK
+H077,chr24,7481681,7642737,161056,2,2,2,moderate;strong,Growth,Salmo salar;Scophthalmus maximus,L001;W002,OK
+H078,chr24,11118014,12122589,1004575,7,4,4,moderate;strong,Growth,Epinephelus fuscoguttatus;Epinephelus tukula;Ictalurus punctatus;Paralichthys olivaceus,C007;L022;S008;S018;W017;W049;W060,OK
+H079,chr24,14045728,15125090,1079362,5,4,4,moderate;strong,Growth,Culter alburnus;Dicentrarchus labrax;Oreochromis niloticus;Sparus aurata,L027;S025;W025;W046;W057,OK
+H080,chr24,16969679,16969679,0,1,1,1,strong,Growth,Channa argus,L002,OK
+H081,chr24,18805194,19362993,557799,3,2,2,moderate;strong,Growth,Oreochromis niloticus;Plecoglossus altivelis,S017;W054;W061,OK
+H082,chr25,3766091,5574159,1808068,2,2,2,strong,Growth,Paralichthys olivaceus;Pelteobagrus vachelli,L019;W060,OK
+H083,chr25,10362952,10471238,108286,2,2,2,strong,Growth,Epinephelus lanceolatus;Scophthalmus maximus,L001;L007,OK
+H084,chr25,15896318,15896318,0,1,1,1,moderate,Growth,Epinephelus coioides,W008,OK
+H085,chr26,7274595,7274595,0,1,1,1,moderate,Growth,Plecoglossus altivelis,W061,OK
+H086,chr26,18503631,18503631,0,2,1,1,strong,Growth,Ctenopharyngodon idella,S027;W056,OK
+H087,chr27,2171315,3372282,1200967,2,2,2,moderate;strong,Growth,Epinephelus coioides;Oreochromis niloticus,L029;W054,OK
+H088,chr27,5948385,5948385,0,1,1,1,strong,Growth,Ctenopharyngodon idella,W041,OK
+H089,chr27,10335618,10335618,0,1,1,1,weak,Growth,Larimichthys crocea,W012,OK
+H090,chr27,14917189,14917189,0,1,1,1,moderate,Growth,Salmo salar,W001,OK
+H091,chr28,38664,301050,262386,2,2,2,strong,Growth,Cyprinus carpio;Larimichthys crocea,W007;W012,OK
+H092,chr28,13111422,13111422,0,1,1,1,moderate,Growth,Cyprinus carpio,L028,OK
+H093,chr29,4316049,4925386,609337,6,4,4,moderate;strong,Growth,Dicentrarchus labrax;Lates calcarifer;Salmo salar;Tachysurus fulvidraco,C014;C015;C016;L027;W002;W021,OK
+H094,chr29,5997540,7723719,1726179,7,5,6,moderate;strong,Growth,Epinephelus coioides;Hypophthalmichthys nobilis;Larimichthys polyactis;Oreochromis niloticus;Siniperca chuatsi,L018;L029;S009;W015;W020;W028;W033,OK
+H095,chr29,9304836,9304836,0,1,1,1,weak,Growth,Takifugu fasciatus,L008,OK
+H096,chr29,13867755,13867755,0,1,1,1,moderate,Growth,Oreochromis niloticus,W025,OK
+H097,chr3,7816096,7816096,0,1,1,1,moderate,Growth,Plecoglossus altivelis,W061,OK
+H098,chr3,15265132,16721740,1456608,2,2,2,strong,Growth,Cynoglossus semilaevis;Oreochromis niloticus,L006;L012,OK
+H099,chr3,19998840,21433529,1434689,3,3,3,strong,Growth,Leiocassis longirostris;Scophthalmus maximus;Siniperca chuatsi,L001;W030;W045,OK
+H100,chr3,26661917,26661917,0,1,1,1,weak,Growth,Mastacembelus armatus,W051,OK
+H101,chr3,30070770,30192593,121823,2,2,2,strong,Growth,Clarias macrocephalus;Ctenopharyngodon idella,W035;W041,OK
+H102,chr30,2097260,2097260,0,1,1,1,strong,Growth,Siniperca chuatsi,W045,OK
+H103,chr30,3894687,4481050,586363,2,2,2,moderate;strong,Growth,Oncorhynchus mykiss;Scophthalmus maximus,L001;W022,OK
+H104,chr30,9350522,9350522,0,1,1,1,moderate,Growth,Epinephelus fuscoguttatus,W017,OK
+H105,chr30,11183169,12099479,916310,4,2,2,moderate;strong,Growth,Culter alburnus;Epinephelus tukula,S018;S025;W049;W057,OK
+H106,chr4,3409160,3409160,0,2,1,1,strong,Growth,Lateolabrax maculatus,S013;S014,OK
+H107,chr4,11575940,11575940,0,2,1,1,strong,Growth,Lateolabrax maculatus,S015;W042,OK
+H108,chr4,24535780,24535780,0,1,1,1,strong,Growth,Oreochromis niloticus,W024,OK
+H109,chr4,27628395,27628395,0,1,1,1,moderate,Growth,Ctenopharyngodon idella,W056,OK
+H110,chr4,31236550,31236550,0,2,1,1,strong,Growth,Channa maculata,S026;W040,OK
+H111,chr5,3402882,5022128,1619246,2,2,2,moderate;strong,Growth,Hypophthalmichthys nobilis;Siniperca chuatsi,W020;W045,OK
+H112,chr5,12301311,12930724,629413,2,2,2,strong,Growth,Oreochromis niloticus;Siniperca chuatsi,W024;W033,OK
+H113,chr5,17704146,17704146,0,1,1,1,strong,Growth,Cynoglossus semilaevis,L006,OK
+H114,chr5,21539465,21539465,0,1,1,1,strong,Growth,Oncorhynchus mykiss,W019,OK
+H115,chr5,22787900,23733623,945723,2,2,2,moderate;native,Growth,Larimichthys crocea;Pangasianodon hypophthalmus,C013;W012,OK
+H116,chr5,29400907,29400907,0,3,2,2,strong,Growth,Clarias fuscus;Larimichthys crocea,C017;L005;W018,OK
+H117,chr6,12123421,13308552,1185131,2,2,2,moderate;strong,Growth,Epinephelus coioides;Larimichthys polyactis,L018;W008,OK
+H118,chr6,14661976,14661976,0,1,1,1,strong,Growth,Cyprinus carpio,W007,OK
+H119,chr7,8426598,8426598,0,1,1,1,moderate,Growth,Epinephelus coioides,W008,OK
+H120,chr7,15670451,15670451,0,1,1,1,strong,Growth,Oncorhynchus mykiss,W010,OK
+H121,chr7,23557027,23557027,0,1,1,1,strong,Growth,Oreochromis niloticus,W054,OK
+H122,chr7,27961038,29832117,1871079,2,2,2,moderate;strong,Growth,Oncorhynchus mykiss;Paralichthys olivaceus,W019;W060,OK
+H123,chr8,1829404,2524019,694615,2,2,2,strong,Growth,Cyprinus carpio;Oncorhynchus mykiss,W007;W053,OK
+H124,chr8,5887831,7438461,1550630,3,2,2,strong,Growth,Culter alburnus;Oncorhynchus mykiss,S025;W004;W057,OK
+H125,chr8,11860808,11860808,0,1,1,1,weak,Growth,Salmo salar,W002,OK
+H126,chr8,13815211,15713653,1898442,3,3,3,strong,Growth,Cynoglossus semilaevis;Hypophthalmichthys nobilis;Oreochromis niloticus,L006;L012;W020,OK
+H127,chr8,24073839,24073839,0,2,1,1,strong,Growth,Epinephelus tukula,S018;W049,OK
+H128,chr9,4775649,4775649,0,1,1,1,strong,Growth,Epinephelus coioides,W008,OK
+H129,chr9,9896304,9933902,37598,2,2,2,strong,Growth,Larimichthys crocea;Leiocassis longirostris,W012;W030,OK
+H130,chr9,12384071,12384071,0,1,1,1,moderate,Growth,Ctenopharyngodon idella,W056,OK
+H131,chr9,16839075,18616482,1777407,4,3,4,moderate;strong,Growth,Hypophthalmichthys nobilis;Oreochromis niloticus;Pelteobagrus vachelli,L019;W020;W025;W026,OK
+H132,chr9,20420113,21069066,648953,3,3,3,moderate;strong,Growth,Cyprinus carpio;Lateolabrax maculatus;Oreochromis niloticus,S017;W007;W043,OK
+H133,chr9,22781828,24045553,1263725,3,3,3,moderate;strong,Growth,Epinephelus coioides;Nibea albiflora;Oreochromis niloticus,L025;W037;W054,OK
+H134,chr9,26170755,26170755,0,1,1,1,strong,Growth,Ctenopharyngodon idella,W041,OK
