@@ -3,20 +3,22 @@
 **Backbone:** *Pangasianodon hypophthalmus*, GCF_027358585.1 (fPanHyp1.pri) — 30 assembled chromosomes,
 764.4 Mb, 29,542 annotated genes (29,486 on chromosomes; 23,205 protein-coding).
 
-**Deliverables:** `catfish_growth_synteny_app.html` (interactive browser, v16 payload), `projected_locus_catalogue_v6.csv`
-(coordinate-corrected + hotspot-dedup flagged, supersedes v3/v4/v5), `projections_anchor_v2.csv`,
-`neighbourhood_genes_v2.csv`, `catfish_hotspots_v5.csv` (strict max-diameter clustering, supersedes v2/v3/v4),
-`blast_validation_v3.csv`, `conservation_class_review_flags_v2.csv`, `locus_registry_v3.csv`,
-`native_locus_catalogue_v2.csv`, `assembly_manifest_v3.csv`, and the FASTA catalogue
+**Deliverables:**
+`catfish_growth_synteny_app.html` (interactive browser, v16 payload),
+`projected_locus_catalogue_v6.csv`(coordinate-corrected + hotspot-dedup flagged, supersedes v3/v4/v5),
+`projections_anchor_v2.csv`,
+`neighbourhood_genes_v2.csv`,
+`catfish_hotspots_v5.csv` (strict max-diameter clustering, supersedes v2/v3/v4),
+`blast_validation_v3.csv`,
+`conservation_class_review_flags_v2.csv`,
+`locus_registry_v3.csv`,
+`native_locus_catalogue_v2.csv`,
+`assembly_manifest_v3.csv`,
+and the FASTA catalogue
 (`growth_marker_cds_v2.fna`, `growth_marker_proteins_v2.faa`, `growth_marker_windows.fna`,
 `sequence_catalogue_v2.csv`) from the locus-projection pipeline (§1–12); plus, from the independent
 supplemental gene-catalog pipeline (§13), `consolidated_gene_catalog.csv`, `resolved_gene_catalog.csv`,
 `gene_resolution_review_flags.csv`, and `gene_resolution_validation.png`.
-
-This is the **v5 methodology document**. It supersedes v4 by adding an independent supplemental
-growth-gene catalog and its own map/detail view in the app — see §13. Locus-level positions, anchor
-resolution, orthology, conservation-class labels, and hotspot membership are unchanged from v4; only the
-new §13 catalog/pipeline and the app payload version reflect this addition.
 
 ---
 
